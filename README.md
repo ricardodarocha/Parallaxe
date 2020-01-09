@@ -1,2 +1,4 @@
 # Parallaxe
-Single 2D Game with fmx
+Single 2D Parallax Game with fmx
+
+![Sample](https://github.com/ricardodarocha/Parallax/Demo.png)
